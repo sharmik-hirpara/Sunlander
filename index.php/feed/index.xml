@@ -12,12 +12,20 @@
 	<atom:link href="https://sharmik-hirpara.github.io/Sunlander/index.php/feed/" rel="self" type="application/rss+xml" />
 	<link>https://sharmik-hirpara.github.io/Sunlander</link>
 	<description></description>
-	<lastBuildDate>Mon, 24 Jan 2022 06:52:07 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 24 Jan 2022 07:06:27 +0000</lastBuildDate>
 	<language>en-AU</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.8.3</generator>
+
+<image>
+	<url>https://sharmik-hirpara.github.io/Sunlander/wp-content/uploads/2022/01/cropped-Sunlander-text-n-Logo.png</url>
+	<title>Sunlander Dental Centre</title>
+	<link>https://sharmik-hirpara.github.io/Sunlander</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 </channel>
 </rss>
